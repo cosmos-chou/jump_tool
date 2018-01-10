@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/label_running" android:key="key_running"/>
+    <SwitchPreference android:title="@string/label_vibrate" android:key="key_vibrate"/>
+    <EditTextPreference android:title="@string/label_distance_rate_to_time"  android:key="key_rate" android:inputType="numberDecimal"/>
+</PreferenceScreen>

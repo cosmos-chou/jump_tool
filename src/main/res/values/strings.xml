@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jump Tool</string>
+    <string name="operation_text_begin">Start</string>
+    <string name="operation_text_end">Pause</string>
+    <string name="operation_text_quit">Stop</string>
+    <string name="label_running">Running</string>
+    <string name="label_vibrate">Vibrate</string>
+    <string name="label_distance_rate_to_time">Rate</string>
+</resources>
